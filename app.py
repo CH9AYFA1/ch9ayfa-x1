@@ -5,7 +5,7 @@ from io import BytesIO
 
 app = FastAPI()
 
-API_KEY = "FranKo-7up"
+
 API_KEY = "franko_ff"
 API_KEY = "community"
 API_KEY = "KiraDevX"
